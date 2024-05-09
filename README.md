@@ -1,5 +1,5 @@
 # Tomasulo Algorithm Simulator
-![Simulation Example](Project/Project/Images/view .png)
+![Simulation Example](Project/Project/Images/view.png)
 
 ## Project Overview
 This project is a simulation tool for the Tomasulo algorithm, designed to visually demonstrate the execution of MIPS assembly instructions. It features both a command-line interface (CLI) and a graphical user interface (GUI), offering interactive exploration of processes within reservation stations, the register file, and instruction queuing. This tool allows users to input and modify instruction latencies to observe varied operational outcomes, making it a valuable educational resource for students and professionals interested in computer architecture and MIPS instruction set.
