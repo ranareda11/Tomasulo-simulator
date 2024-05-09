@@ -24,3 +24,17 @@ To get this project up and running on your local machine, follow these steps:
    ```bash
    git clone https://github.com/yourusername/Tomasulo-simulator.git
    cd Tomasulo-simulator
+
+## Install Dependencies 
+-npm install
+
+## Start the server
+-npm start
+
+## To access the website 
+-Open your web browser and go to http://localhost:8000/Home to start using the simulator.
+
+
+
+
+   
